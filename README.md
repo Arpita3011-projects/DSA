@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Arpita3011-projects/DSA/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arpita3011-projects/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arpita3011-projects/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Arpita3011-projects/DSA/tree/master/0217-contains-duplicate) |
@@ -46,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/Arpita3011-projects/DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Arpita3011-projects/DSA/tree/master/0191-number-of-1-bits) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Arpita3011-projects/DSA/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Arpita3011-projects/DSA/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
