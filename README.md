@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Arpita3011-projects/DSA/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Arpita3011-projects/DSA/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arpita3011-projects/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arpita3011-projects/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -21,11 +22,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Arpita3011-projects/DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Arpita3011-projects/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Arpita3011-projects/DSA/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Arpita3011-projects/DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Arpita3011-projects/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Arpita3011-projects/DSA/tree/master/0242-valid-anagram) |
 ## Prefix Sum
@@ -60,5 +63,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Arpita3011-projects/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Arpita3011-projects/DSA/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
