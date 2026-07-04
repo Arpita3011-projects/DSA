@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arpita3011-projects/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Arpita3011-projects/DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Arpita3011-projects/DSA/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/Arpita3011-projects/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Arpita3011-projects/DSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Arpita3011-projects/DSA/tree/master/0424-longest-repeating-character-replacement) |
 ## Stack
@@ -79,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arpita3011-projects/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Arpita3011-projects/DSA/tree/master/0424-longest-repeating-character-replacement) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Arpita3011-projects/DSA/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
