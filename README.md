@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Arpita3011-projects/DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Arpita3011-projects/DSA/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Arpita3011-projects/DSA/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arpita3011-projects/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arpita3011-projects/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/Arpita3011-projects/DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Arpita3011-projects/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Arpita3011-projects/DSA/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/Arpita3011-projects/DSA/tree/master/0217-contains-duplicate) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Arpita3011-projects/DSA/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/Arpita3011-projects/DSA/tree/master/0054-spiral-matrix) |
 ## Simulation
 |  |
