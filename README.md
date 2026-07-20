@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Arpita3011-projects/DSA/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Arpita3011-projects/DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Arpita3011-projects/DSA/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Arpita3011-projects/DSA/tree/master/0054-spiral-matrix) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Arpita3011-projects/DSA/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arpita3011-projects/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Hash Table
 |  |
