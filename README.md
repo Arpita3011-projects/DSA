@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Arpita3011-projects/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Arpita3011-projects/DSA/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Arpita3011-projects/DSA/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/Arpita3011-projects/DSA/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Arpita3011-projects/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Arpita3011-projects/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Arpita3011-projects/DSA/tree/master/0567-permutation-in-string) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arpita3011-projects/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Arpita3011-projects/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Arpita3011-projects/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0394-decode-string](https://github.com/Arpita3011-projects/DSA/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Arpita3011-projects/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Arpita3011-projects/DSA/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Arpita3011-projects/DSA/tree/master/0853-car-fleet) |
@@ -140,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Arpita3011-projects/DSA/tree/master/0225-implement-stack-using-queues) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/Arpita3011-projects/DSA/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
