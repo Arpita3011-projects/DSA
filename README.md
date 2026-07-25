@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Arpita3011-projects/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Arpita3011-projects/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Arpita3011-projects/DSA/tree/master/0567-permutation-in-string) |
+| [0856-score-of-parentheses](https://github.com/Arpita3011-projects/DSA/tree/master/0856-score-of-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Arpita3011-projects/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Stack
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Arpita3011-projects/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Arpita3011-projects/DSA/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Arpita3011-projects/DSA/tree/master/0853-car-fleet) |
+| [0856-score-of-parentheses](https://github.com/Arpita3011-projects/DSA/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/Arpita3011-projects/DSA/tree/master/0901-online-stock-span) |
 ## Sliding Window
 |  |
