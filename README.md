@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arpita3011-projects/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Arpita3011-projects/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Arpita3011-projects/DSA/tree/master/0238-product-of-array-except-self) |
+| [0503-next-greater-element-ii](https://github.com/Arpita3011-projects/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Arpita3011-projects/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Arpita3011-projects/DSA/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Arpita3011-projects/DSA/tree/master/0853-car-fleet) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Arpita3011-projects/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Arpita3011-projects/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0394-decode-string](https://github.com/Arpita3011-projects/DSA/tree/master/0394-decode-string) |
+| [0503-next-greater-element-ii](https://github.com/Arpita3011-projects/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Arpita3011-projects/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Arpita3011-projects/DSA/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Arpita3011-projects/DSA/tree/master/0853-car-fleet) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Arpita3011-projects/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0503-next-greater-element-ii](https://github.com/Arpita3011-projects/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Arpita3011-projects/DSA/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Arpita3011-projects/DSA/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/Arpita3011-projects/DSA/tree/master/0901-online-stock-span) |
