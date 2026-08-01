@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Arpita3011-projects/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Arpita3011-projects/DSA/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Arpita3011-projects/DSA/tree/master/0853-car-fleet) |
+| [0875-koko-eating-bananas](https://github.com/Arpita3011-projects/DSA/tree/master/0875-koko-eating-bananas) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Arpita3011-projects/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Arpita3011-projects/DSA/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arpita3011-projects/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/Arpita3011-projects/DSA/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
