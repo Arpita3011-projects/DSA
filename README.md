@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arpita3011-projects/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/Arpita3011-projects/DSA/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Arpita3011-projects/DSA/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/Arpita3011-projects/DSA/tree/master/0441-arranging-coins) |
 | [0875-koko-eating-bananas](https://github.com/Arpita3011-projects/DSA/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Arpita3011-projects/DSA/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arpita3011-projects/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0371-sum-of-two-integers](https://github.com/Arpita3011-projects/DSA/tree/master/0371-sum-of-two-integers) |
+| [0441-arranging-coins](https://github.com/Arpita3011-projects/DSA/tree/master/0441-arranging-coins) |
 ## Bit Manipulation
 |  |
 | ------- |
