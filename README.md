@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/Arpita3011-projects/DSA/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/Arpita3011-projects/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Arpita3011-projects/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Arpita3011-projects/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Arpita3011-projects/DSA/tree/master/0441-arranging-coins) |
 | [0875-koko-eating-bananas](https://github.com/Arpita3011-projects/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Arpita3011-projects/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Arpita3011-projects/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Hash Table
 |  |
 | ------- |
