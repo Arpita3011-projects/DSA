@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arpita3011-projects/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arpita3011-projects/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Arpita3011-projects/DSA/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arpita3011-projects/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Arpita3011-projects/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Arpita3011-projects/DSA/tree/master/0238-product-of-array-except-self) |
 | [0503-next-greater-element-ii](https://github.com/Arpita3011-projects/DSA/tree/master/0503-next-greater-element-ii) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Arpita3011-projects/DSA/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arpita3011-projects/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Arpita3011-projects/DSA/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arpita3011-projects/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/Arpita3011-projects/DSA/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Arpita3011-projects/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Arpita3011-projects/DSA/tree/master/0441-arranging-coins) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Arpita3011-projects/DSA/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arpita3011-projects/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/Arpita3011-projects/DSA/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Arpita3011-projects/DSA/tree/master/0567-permutation-in-string) |
 ## Union-Find
