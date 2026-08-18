@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Arpita3011-projects/DSA/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Arpita3011-projects/DSA/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/Arpita3011-projects/DSA/tree/master/0875-koko-eating-bananas) |
+| [0881-boats-to-save-people](https://github.com/Arpita3011-projects/DSA/tree/master/0881-boats-to-save-people) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Arpita3011-projects/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Arpita3011-projects/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Dynamic Programming
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Arpita3011-projects/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Arpita3011-projects/DSA/tree/master/0242-valid-anagram) |
 | [0853-car-fleet](https://github.com/Arpita3011-projects/DSA/tree/master/0853-car-fleet) |
+| [0881-boats-to-save-people](https://github.com/Arpita3011-projects/DSA/tree/master/0881-boats-to-save-people) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Arpita3011-projects/DSA/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Arpita3011-projects/DSA/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/Arpita3011-projects/DSA/tree/master/0844-backspace-string-compare) |
+| [0881-boats-to-save-people](https://github.com/Arpita3011-projects/DSA/tree/master/0881-boats-to-save-people) |
 ## Union-Find
 |  |
 | ------- |
@@ -206,4 +209,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Arpita3011-projects/DSA/tree/master/0075-sort-colors) |
+## Greedy
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Arpita3011-projects/DSA/tree/master/0881-boats-to-save-people) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Arpita3011-projects/DSA/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
