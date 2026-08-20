@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Arpita3011-projects/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Arpita3011-projects/DSA/tree/master/0283-move-zeroes) |
 | [0503-next-greater-element-ii](https://github.com/Arpita3011-projects/DSA/tree/master/0503-next-greater-element-ii) |
+| [0611-valid-triangle-number](https://github.com/Arpita3011-projects/DSA/tree/master/0611-valid-triangle-number) |
 | [0735-asteroid-collision](https://github.com/Arpita3011-projects/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Arpita3011-projects/DSA/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Arpita3011-projects/DSA/tree/master/0853-car-fleet) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/Arpita3011-projects/DSA/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Arpita3011-projects/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Arpita3011-projects/DSA/tree/master/0441-arranging-coins) |
+| [0611-valid-triangle-number](https://github.com/Arpita3011-projects/DSA/tree/master/0611-valid-triangle-number) |
 | [0875-koko-eating-bananas](https://github.com/Arpita3011-projects/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Arpita3011-projects/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Arpita3011-projects/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Arpita3011-projects/DSA/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Arpita3011-projects/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Arpita3011-projects/DSA/tree/master/0242-valid-anagram) |
+| [0611-valid-triangle-number](https://github.com/Arpita3011-projects/DSA/tree/master/0611-valid-triangle-number) |
 | [0853-car-fleet](https://github.com/Arpita3011-projects/DSA/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/Arpita3011-projects/DSA/tree/master/0881-boats-to-save-people) |
 ## Prefix Sum
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Arpita3011-projects/DSA/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Arpita3011-projects/DSA/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Arpita3011-projects/DSA/tree/master/0567-permutation-in-string) |
+| [0611-valid-triangle-number](https://github.com/Arpita3011-projects/DSA/tree/master/0611-valid-triangle-number) |
 | [0844-backspace-string-compare](https://github.com/Arpita3011-projects/DSA/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/Arpita3011-projects/DSA/tree/master/0881-boats-to-save-people) |
 ## Union-Find
@@ -212,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/Arpita3011-projects/DSA/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/Arpita3011-projects/DSA/tree/master/0881-boats-to-save-people) |
 ## Timsort
 |  |
