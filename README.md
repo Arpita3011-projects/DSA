@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Arpita3011-projects/DSA/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/Arpita3011-projects/DSA/tree/master/0611-valid-triangle-number) |
 | [0844-backspace-string-compare](https://github.com/Arpita3011-projects/DSA/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/Arpita3011-projects/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Arpita3011-projects/DSA/tree/master/0881-boats-to-save-people) |
 ## Union-Find
 |  |
@@ -227,4 +228,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Arpita3011-projects/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0876-middle-of-the-linked-list](https://github.com/Arpita3011-projects/DSA/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
