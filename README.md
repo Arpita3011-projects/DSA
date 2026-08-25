@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Arpita3011-projects/DSA/tree/master/0016-3sum-closest) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Arpita3011-projects/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/Arpita3011-projects/DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Arpita3011-projects/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arpita3011-projects/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Arpita3011-projects/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Arpita3011-projects/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/Arpita3011-projects/DSA/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
