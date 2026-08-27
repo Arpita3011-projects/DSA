@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arpita3011-projects/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Arpita3011-projects/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Arpita3011-projects/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0234-palindrome-linked-list](https://github.com/Arpita3011-projects/DSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Arpita3011-projects/DSA/tree/master/0394-decode-string) |
 | [0503-next-greater-element-ii](https://github.com/Arpita3011-projects/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Arpita3011-projects/DSA/tree/master/0735-asteroid-collision) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Arpita3011-projects/DSA/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Arpita3011-projects/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arpita3011-projects/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/Arpita3011-projects/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Arpita3011-projects/DSA/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Arpita3011-projects/DSA/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Arpita3011-projects/DSA/tree/master/0567-permutation-in-string) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Arpita3011-projects/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/Arpita3011-projects/DSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Arpita3011-projects/DSA/tree/master/0394-decode-string) |
 ## Backtracking
 |  |
@@ -233,5 +236,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Arpita3011-projects/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Arpita3011-projects/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Arpita3011-projects/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/Arpita3011-projects/DSA/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Arpita3011-projects/DSA/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
